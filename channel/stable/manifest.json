@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "channel": "stable",
+  "sequence": 2,
+  "issued_at": "2026-10-26T14:28:48Z",
+  "expires_at": "2027-01-24T14:28:48Z",
+  "key_id": "B802E253EEB539F1",
+  "artifacts": [
+    {
+      "id": "stt.parakeet-v3.q8_0",
+      "kind": "model_stt",
+      "version": "hf-90f08245",
+      "label": "Parakeet v3 · Q8_0 · CPU",
+      "url": "https://huggingface.co/handy-computer/parakeet-tdt-0.6b-v3-gguf/resolve/90f082450fcbacdb54e5900c44ef697c9ea59622/parakeet-tdt-0.6b-v3-Q8_0.gguf",
+      "redirect_hosts": [
+        "us.aws.cdn.hf.co"
+      ],
+      "size": 739508576,
+      "sha256": "5859f77944efcd8eafa23a6350731960b2b55b2203df51f319665c807d802cc7",
+      "license": "CC-BY-4.0",
+      "compat": {
+        "app_min": "0.0.0",
+        "app_max": null,
+        "worker_abi": {
+          "min": 1,
+          "max": 1
+        },
+        "gpu_pack_abi": null
+      },
+      "provides": null,
+      "status": "active"
+    }
+  ]
+}
